@@ -1,7 +1,7 @@
 #include<stdio.h>
 
     int main(){
-        printf("BEM VINDO AO JOGO DE XADREZ");
+        printf("Desafio Xadrez!\n");
 
 
 
